@@ -53,21 +53,6 @@ The dataset is located in the `data/` directory.
 
 ---
 
-## 📁 Project Structure
-
-mutual-fund-performance-analysis/
-│
-├── data/
-│ └── comprehensive_mutual_funds_data.csv
-│
-├── notebooks/
-│ └── mutual_fund_eda.ipynb
-│
-└── README.md
-
-
----
-
 ## 🚀 Future Scope
 - Fund category-wise performance comparison
 - Clustering of mutual funds based on risk-return profiles
